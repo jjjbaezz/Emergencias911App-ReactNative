@@ -1,6 +1,6 @@
 # 🚨 Aplicación de Emergencias 911
 
-**Desarrollado por:** [TU MATRICULA] - [TU NOMBRE COMPLETO]
+**Desarrollado por: Justin Baez
 
 ## 📱 Descripción
 
