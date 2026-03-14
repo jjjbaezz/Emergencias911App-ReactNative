@@ -53,8 +53,4 @@ emergencias911/
 - AsyncStorage
 - Expo Image Picker
 
-## 👤 Autor
 
-**Matrícula:** [TU MATRICULA]  
-**Nombre:** [TU NOMBRE COMPLETO]  
-**Fecha:** Noviembre 2025
